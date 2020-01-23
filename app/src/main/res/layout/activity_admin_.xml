@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".Admin_Activity">
 
+    <EditText
+        android:id="@+id/ettest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        tools:ignore="MissingConstraints" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
