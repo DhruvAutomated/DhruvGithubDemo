@@ -20,6 +20,8 @@ public class Admin_Activity extends AppCompatActivity {
 
         String test11 = "helloo";
         String test22 = "hi";
+        String Testobject ="" ;
 
+        Object object = new Object();
     }
 }
