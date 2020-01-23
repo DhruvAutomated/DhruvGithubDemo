@@ -13,5 +13,7 @@ public class Basic_demo extends AppCompatActivity {
         setContentView(R.layout.activity_basic_demo);
 
         Toast.makeText(Basic_demo.this,"test",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(Basic_demo.this,"this is test",Toast.LENGTH_LONG).show();
     }
 }
