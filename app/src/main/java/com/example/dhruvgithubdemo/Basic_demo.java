@@ -12,6 +12,6 @@ public class Basic_demo extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_basic_demo);
 
-        Toast.makeText(Basic_demo.this);
+        Toast.makeText(Basic_demo.this,"test",Toast.LENGTH_LONG).show();
     }
 }
