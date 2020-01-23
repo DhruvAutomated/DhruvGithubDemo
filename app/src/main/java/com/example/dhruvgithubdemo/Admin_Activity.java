@@ -18,5 +18,7 @@ public class Admin_Activity extends AppCompatActivity {
 
         ettest.setText("this is test");
 
+        String test11 = "helloo";
+
     }
 }
