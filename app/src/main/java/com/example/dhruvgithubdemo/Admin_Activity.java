@@ -27,5 +27,6 @@ public class Admin_Activity extends AppCompatActivity {
 
 
         Object object = new Object();
+
     }
 }

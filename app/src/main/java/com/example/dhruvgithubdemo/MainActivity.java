@@ -14,8 +14,10 @@ public class MainActivity extends AppCompatActivity {
 
         int au = 1;
 
+        String tttt1 = "";
+
 
         Toast.makeText(MainActivity.this,"dhruv test00",Toast.LENGTH_LONG).show();
-        Toast.makeText(MainActivity.this,"dhruv test",Toast.LENGTH_LONG).show();
+
     }
 }
