@@ -23,6 +23,8 @@ public class Admin_Activity extends AppCompatActivity {
         String Testobject ="" ;
 
         String DhruvTest = " ";
+        String Dhruv22 = " ";
+
 
         Object object = new Object();
 
